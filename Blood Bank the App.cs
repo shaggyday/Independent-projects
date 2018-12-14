@@ -17,9 +17,6 @@ namespace blood_bank_app
         public Form2()
         {
             InitializeComponent();
-//            if (!File.Exists(database.Text_path))
-//                File.Create(database.Text_path);
-//            database.readData();
         }
 
         private void Form2_Load(object sender, EventArgs e)
