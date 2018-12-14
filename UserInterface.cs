@@ -10,7 +10,6 @@ namespace blood_bank_app
 {
     class UserInterface
     {
-        public String name { get; }
         public String[] DonerData { get; }
 
         public UserInterface(String firstName, String lastName, String bloodType, String RhFactor, String address, String phone)
