@@ -1,0 +1,69 @@
+.bar {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 250px;
+}
+
+.container{
+	font-family:'Trebuchet MS', Helvetica,sans-serif;
+	padding-top: 80px;
+	padding-bottom: 30px;
+}
+
+.navbar{
+	background-color: #F2F2F2;
+}
+
+.navbar-brand{
+	padding-left: 30px;
+}
+
+h1 {
+	color: DarkOliveGreen;
+}
+
+p{
+	font-size:14px;
+}
+
+h2 {
+	padding-bottom: 20px;
+}
+
+.img-fluid{
+	padding-top: 10px;
+}
+
+.row{
+	padding-top: 30px
+	padding-bottom: 30px;
+}
+
+.col{
+	padding-top: 20px;
+}
+
+.col-sm-7
+{
+	margin-top: 20px;
+}
+
+.col-sm-5
+{
+	margin-top: 20px;
+}
+
+.card{
+	margin-top: 10px;
+}
+
+.card-header{
+	font-size:25px;
+}
+
+.extra{
+	display: flex;
+	flex-wrap:wrap;
+	padding-top: 20px;
+}
